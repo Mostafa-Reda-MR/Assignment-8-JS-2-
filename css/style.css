@@ -1,0 +1,11 @@
+.bg-image{
+    background-image: url(../image/4.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.w-small{
+    width: 80px;
+    height: 80px;
+}
