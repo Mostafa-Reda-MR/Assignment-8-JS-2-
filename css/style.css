@@ -9,3 +9,13 @@
     width: 80px;
     height: 80px;
 }
+
+@media screen and (min-width:500px) and (max-width:1400px){
+        #output p{
+            /* font-size: 10px; */
+        }
+
+        #output div{
+            margin-top: 0px;
+        }
+}
